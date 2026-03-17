@@ -1,8 +1,8 @@
 class RalphCli < Formula
   desc "Iterative AI-assisted feature development CLI"
   homepage "https://github.com/n1ch0la5/ralph-cli"
-  url "https://github.com/n1ch0la5/ralph-cli/archive/refs/tags/v0.1.5.tar.gz"
-  sha256 "50b28ff88c86de9852312bc8dd416dd75a59274ac7ae88d41e3dc4858b0fd254"
+  url "https://github.com/n1ch0la5/ralph-cli/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "4d9ca1f041f50ba864e0d7b41dc4be9cc184ea764a4c6bc87bdad7b403f5ace4"
   license "MIT"
 
   def install
